@@ -7,6 +7,8 @@ public class Login {
         System.out.println("Name is ="+userName);
         System.out.println("passWd ="+passWd);
 
+        System.out.println("Name is ="+userName);
+
 
     }
 }
