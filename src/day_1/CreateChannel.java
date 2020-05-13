@@ -8,6 +8,11 @@ public class CreateChannel {
         int a = 23, b = 45, c =36;
         int sum = a+b+c; //changed in itelliJ
         System.out.println("Sum is here =" +sum);
+
+        
+        //i made some changes here..github
+        //pay attentiom
+
     }
 
 
