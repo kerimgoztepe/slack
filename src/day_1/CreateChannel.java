@@ -6,7 +6,7 @@ public class CreateChannel {
         System.out.println("name = "+name);
 
         int a = 23, b = 45, c =36;
-        int sum = a+b+c;
+        int sum = a+b+c; //changed in itelliJ
         System.out.println("Sum is here =" +sum);
     }
 
