@@ -6,7 +6,11 @@ public class Login {
         String  passWd = "wert1234";
         System.out.println("Name is ="+userName);
         System.out.println("passWd ="+passWd);
+        
+        
+        
+        
 
-
+        //this line is adde grom github System.out.println("Name is ="+userName);
     }
 }
